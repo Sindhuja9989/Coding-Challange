@@ -1,4 +1,0 @@
-ublic
-
-class Solution {
-}
